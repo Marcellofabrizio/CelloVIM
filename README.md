@@ -1,13 +1,3 @@
-
-![luavim](img/screenshot1.png?raw=true)
-![tree+split](img/screenshot2.png?raw=true)
-
-## Description
-
-* **Luavim** is a simple **neovim** configuration written in **lua**, aiming to provide a **base** config, so users could tweak the defaults, remove the things they don't like, and build their config on top of it.
-
-## Table of Contents
-
 * [Plugins List](#plugins-list)
 * [Directory Tree](#directory-tree)
 * [Installation](#installation)
@@ -131,18 +121,3 @@ rm -rf ~/.cache/nvim
 - https://dev.to/vonheikemen/everything-you-need-to-know-to-configure-neovim-using-lua-3h58
 - https://www.old.reddit.com/r/neovim/
 
-#### Lua resources
-
-- Lua in Y minutes - https://learnxinyminutes.com/docs/lua/
-- Lua Quick Guide - https://github.com/medwatt/Notes/blob/main/Lua/Lua_Quick_Guide.ipynb
-- Lua 5.4 Reference Manual - https://www.lua.org/manual/5.4/
-
-## Special Thanks
-
-* Thanks to all the authors of the sources mentioned above, And special thanks to [ChristianChiarulli](https://github.com/ChristianChiarulli) and [brainfucksec](https://github.com/brainfucksec) For making this configuration possible.
-
-<div align="center" id="madewithlua">
-
-[![Lua](https://img.shields.io/badge/Made%20with%20Lua-blue.svg?style=for-the-badge&logo=lua)](#madewithlua)
-
-</div>
